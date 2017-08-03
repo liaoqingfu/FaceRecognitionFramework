@@ -1,0 +1,10 @@
+{
+  "ModelVersion": 1.0,
+  "Parameters":
+  [
+    {"model": "models/face_align_gray.bin"},
+    {"input_C": 1},
+    {"input_H": 96},
+    {"input_W": 96}
+  ]
+}

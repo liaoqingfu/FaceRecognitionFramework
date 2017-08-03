@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<max_score value="0.86" />
+	<local_ip value="192.168.112.229" />
+	<down_sample_rate value="2" />
+	<ip_camera_ip value="192.168.112.249" />
+	<ip_camera_user_name value="admin" />
+	<ip_camera_passwd value="hik12345" />
+	<camera name="camera0">
+		<camera_id value="0"/>
+		<camera_ip value="192.168.112.249"/>
+		<user_name value="admin"/>
+		<password value="hik12345"/>
+	</camera>
+</config>

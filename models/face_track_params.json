@@ -1,0 +1,25 @@
+{
+  "ModelVersion": 1.0,
+  "Parameters":
+  [
+    {"init_video_every": 10},
+    {"assign_fakeid_after": 5},
+    {"validation_detect_every": 30},
+    {"validation_score_threshold": 0.9},
+    {"model_abandoned_after": 30},
+    {"detection_nonoverlap_iou": 0.5},
+    {"rediscover_feature_threshold": 1.0},
+    {"dulplicate_check_every": 10},
+    {"dulplicate_threshold": 0.5},
+    {"calc_aligned_face_every": 10},
+    {"max_aligned_face_number": 3},
+    {"max_face_model_number": 1},
+    {"dlib_alignment_model_location": "models/face_alignment.mdl"},
+    {"curr_face_detector": 1},
+    {"verbose": 1},
+    {"face_detect_scale_factor": 1.4},
+    {"face_detect_step_size": 4},
+    {"face_detect_min_face": 60},
+    {"face_detect_max_face": 0}
+  ]
+}

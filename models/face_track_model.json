@@ -1,0 +1,16 @@
+{
+  "ModelVersion": 1.0,
+  "Parameters":
+  [
+    {"model": "models/face_track_model.bin"},
+	{"face_rect_x": 40},
+    {"face_rect_y": 90},
+    {"face_rect_w": 100},
+    {"face_rect_h": 100},
+	{"new_height": 110},
+	{"new_width": 110},
+    {"input_C": 3},
+    {"input_H": 96},
+    {"input_W": 96}
+  ]
+}

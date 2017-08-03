@@ -1,0 +1,16 @@
+{
+  "ModelVersion": 1.0,
+  "Parameters":
+  [
+    {"model": "models/rog_inception.bin"},
+    {"face_rect_x": 42},
+    {"face_rect_y": 68},
+    {"face_rect_w": 92},
+    {"face_rect_h": 113},
+	{"new_height": 250},
+	{"new_width": 250},
+    {"input_C": 3},
+    {"input_H": 224},
+    {"input_W": 224}
+  ]
+}
